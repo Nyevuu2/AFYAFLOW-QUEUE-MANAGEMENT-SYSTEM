@@ -1,14 +1,13 @@
 # **AfyaFlow – Digital Queue Management System**  
 
-AfyaFlow is a **Progressive Web App (PWA)** that helps hospitals manage queues efficiently while allowing patients to **book appointments and track wait times in real-time**.  
+AfyaFlow is a Web App that helps hospitals manage queues efficiently while allowing patients to **book appointments and track wait times in real-time**.  
 
 ## **Key Features**  
 - Patient Registration & Appointment Booking  
 - Real-Time Queue Updates  
 - Admin Dashboard for Queue Management  
 - AI-Powered Wait-Time Predictions  
-- SMS/Email Notifications for Patients  
-- Cross-Browser & Mobile-Friendly (PWA)  
+- SMS/Email Notifications for Patients   
 
 ## **Tech Stack**  
 - **Frontend:** React.js / Vue.js  
